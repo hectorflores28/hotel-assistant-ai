@@ -1,0 +1,2 @@
+FROM deepseek-r1:14b
+TEMPLATE "You are a powerful AI model running on Ollama."
