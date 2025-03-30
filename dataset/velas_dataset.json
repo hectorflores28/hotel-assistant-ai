@@ -1,0 +1,87 @@
+{
+    "conversaciones": [
+        {
+            "input": "¿Qué servicios ofrece Grand Velas Riviera Maya?",
+            "output": "Grand Velas Riviera Maya ofrece servicios de lujo incluyendo spa, restaurantes gourmet, piscinas infinitas, y acceso a la playa. También cuenta con servicio de concierge 24/7, actividades acuáticas, y programas especiales para niños."
+        },
+        {
+            "input": "¿Cuál es la política de cancelación?",
+            "output": "La política de cancelación permite cancelaciones sin cargo hasta 24 horas antes de la llegada. Para reservas de temporada alta, se requiere un depósito del 50% al momento de la reserva."
+        },
+        {
+            "input": "¿Qué tipos de habitaciones hay en Grand Velas Los Cabos?",
+            "output": "Grand Velas Los Cabos ofrece varias categorías de habitaciones: Deluxe Ocean View, Ambassador Suite, Grand Class Suite, y Presidential Suite. Todas incluyen servicio de mayordomo 24/7, minibar reabastecido diariamente y vista al mar."
+        },
+        {
+            "input": "¿Cuál es el horario del spa en Casa Velas?",
+            "output": "El spa en Casa Velas está abierto de 8:00 AM a 8:00 PM. Ofrece tratamientos de masaje, faciales, y terapias especializadas. Se recomienda reservar con anticipación, especialmente en temporada alta."
+        },
+        {
+            "input": "¿Qué restaurantes hay en Velas Vallarta?",
+            "output": "Velas Vallarta cuenta con 5 restaurantes: La Ribera (buffet internacional), Andrea (italiano), V's Steakhouse, La Parrilla (mexicano) y La Bistro (café). Todos ofrecen servicio a la carta y buffet según el horario."
+        },
+        {
+            "input": "¿Cuál es la política de check-in y check-out?",
+            "output": "El check-in es a las 3:00 PM y el check-out a las 12:00 PM. Se ofrece servicio de late check-out hasta las 6:00 PM sujeto a disponibilidad y con cargo adicional."
+        },
+        {
+            "input": "¿Qué actividades hay para niños en Mar Del Cabo?",
+            "output": "Mar Del Cabo ofrece el programa Kids Club para niños de 4 a 12 años, con actividades como artes y manualidades, juegos de playa, clases de cocina infantil y entretenimiento supervisado. El servicio es gratuito y está disponible de 9:00 AM a 5:00 PM."
+        },
+        {
+            "input": "¿Cuál es la política de vestimenta en los restaurantes?",
+            "output": "La política de vestimenta varía por restaurante: casual elegante para la mayoría de los restaurantes, formal para V's Steakhouse (requiere pantalón largo y zapatos cerrados). No se permiten shorts o sandalias en los restaurantes formales."
+        },
+        {
+            "input": "¿Qué servicios de transporte ofrecen?",
+            "output": "Ofrecemos servicio de traslado desde y hacia el aeropuerto en vehículos privados o compartidos. También contamos con servicio de renta de autos y tours organizados a destinos cercanos. Los precios varían según el servicio y la distancia."
+        },
+        {
+            "input": "¿Cuál es la política de propinas?",
+            "output": "Las propinas están incluidas en todos los servicios. Sin embargo, si desea dar una propina adicional por servicio excepcional, es bienvenida. Los empleados no pueden solicitar propinas directamente."
+        }
+    ],
+    "informacion_hoteles": {
+        "Grand Velas Riviera Maya": {
+            "ubicacion": "Riviera Maya, México",
+            "habitaciones": 491,
+            "restaurantes": 8,
+            "servicios_principales": ["Spa", "Piscinas", "Playa", "Kids Club", "Gimnasio"],
+            "categorias_habitaciones": ["Ambassador", "Grand Class", "Presidential"]
+        },
+        "Grand Velas Los Cabos": {
+            "ubicacion": "Los Cabos, México",
+            "habitaciones": 307,
+            "restaurantes": 7,
+            "servicios_principales": ["Spa", "Piscinas", "Playa", "Golf", "Kids Club"],
+            "categorias_habitaciones": ["Deluxe Ocean View", "Ambassador Suite", "Grand Class Suite"]
+        },
+        "Casa Velas": {
+            "ubicacion": "Puerto Vallarta, México",
+            "habitaciones": 80,
+            "restaurantes": 3,
+            "servicios_principales": ["Spa", "Piscina", "Golf", "Restaurante"],
+            "categorias_habitaciones": ["Junior Suite", "Master Suite", "Presidential Suite"]
+        }
+    },
+    "politicas_generales": {
+        "reservas": {
+            "deposito_requerido": "50% para temporada alta",
+            "cancelacion": "24 horas antes sin cargo",
+            "modificacion": "Permitida hasta 48 horas antes"
+        },
+        "check_in": {
+            "hora": "15:00",
+            "early_check_in": "Sujeto a disponibilidad",
+            "late_check_out": "Hasta 18:00 con cargo adicional"
+        },
+        "servicios_incluidos": [
+            "Comida y bebidas ilimitadas",
+            "Actividades deportivas",
+            "Entretenimiento",
+            "Kids Club",
+            "WiFi",
+            "Estacionamiento"
+        ]
+    }
+}
