@@ -1,4 +1,4 @@
-﻿# **DeepSeek con Ollama**
+﻿# **Asistencia de IA Hotel**
 
 ![Python](https://img.shields.io/badge/Python-3.7+-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-Latest-00A67E.svg?style=for-the-badge)
